@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306147488927",
+    "firebase_url": "https://photogram-63992-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "photogram-63992",
+    "storage_bucket": "photogram-63992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306147488927:android:73b6f084e0b7973bc9deaa",
+        "android_client_info": {
+          "package_name": "com.travelly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306147488927-7urooc527kcncpjgjokgjuq2qqfiij8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKU-1MEGCeWKQk6G-0A2raVpfPz1wT-n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306147488927-7urooc527kcncpjgjokgjuq2qqfiij8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
